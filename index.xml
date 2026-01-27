@@ -23,7 +23,7 @@ License installer for nvk Tools Bundle.\line
   <category name="License">
     <reapack name="nvkToolsBundleLicense - Installer.lua" type="script">
       <version name="1.0.0" author="Sergey L0wl, Ivan-Spoda">
-        <changelog><![CDATA[Initial release]]></changelog>
+        <changelog><![CDATA[Initial release with supports license fron 26 nov 2025]]></changelog>
         <source main="main">https://github.com/L0wl/nvkToolsBundleLicense/raw/license/install.lua</source>
         <source file="__startup.lua">https://github.com/L0wl/nvkToolsBundleLicense/raw/license/__startup.lua</source>
       </version>
